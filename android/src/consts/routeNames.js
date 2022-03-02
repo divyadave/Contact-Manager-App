@@ -1,0 +1,8 @@
+export const CONTACT_LIST = 'Contact List'
+export const CONTACT_DETAIL = 'Contact detail'
+export const CONTACT_CREATE = 'Create Contact'
+export const SETTINGS = 'Settings'
+export const LOGIN = 'Login'
+export const REGISTER = 'Register'
+export const HOME_NAVIGATOR = 'Home'
+export const LOGOUT = 'Logout'
